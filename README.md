@@ -1,6 +1,10 @@
 # Mini Fantasy League Manager
 A Java console application developed as a college project.
 
+##Preview
+
+![Fantasy League Manager](mini-league.jpg)
+
 ## Overview
 
 Fantasy League Manager allows users to create teams, add players,
